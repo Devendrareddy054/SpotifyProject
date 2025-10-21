@@ -9,7 +9,7 @@
 			"container": {
 				"type": "string"
 			},
-			"foldername": {
+			"folder": {
 				"type": "string"
 			},
 			"filename": {
